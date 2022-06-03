@@ -16,5 +16,5 @@ https://drive.google.com/file/d/1hwVWJilQJOqpItS9dz16OyJP7OKqzsyG/view?usp=shari
 
 ## Group Members
 - hmgsun@ucdavis.edu, Ricardo Sun, 914848141
-- wwtan@ucdavis.edu, 
+- wwtan@ucdavis.edu, Wen Wei Tan, 915955415
 - spsathya@ucdavis.edu, Suparn Sathya, 919814442
